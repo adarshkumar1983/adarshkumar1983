@@ -150,6 +150,11 @@
       0% { opacity: 0; }
       100% { opacity: 1; }
     }
+
+     @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
   </style>
 
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 28px; font-weight: 600; color: #555;">GitHub Stats: 📡📡</h3>
