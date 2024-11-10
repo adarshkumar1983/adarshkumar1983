@@ -31,45 +31,7 @@
   </a>
 </p>
 
-<style>
-  /* Cool Hover Effects for Social Icons */
-  .social-icon {
-    transition: transform 0.3s ease, filter 0.3s ease;
-  }
 
-  .social-icon:hover {
-    transform: scale(1.2) rotate(10deg);
-    filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.2));
-  }
-
-  /* Fun Fact Animation */
-  p {
-    animation: bounce 2s infinite;
-    color: #2e8b57;
-    font-weight: 500;
-  }
-
-  @keyframes bounce {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-  }
-
-  /* Title Styling for Reach Me */
-  h3 {
-    animation: fadeIn 1s ease-in-out;
-    color: #444;
-  }
-
-  /* Fade-in effect for Reach Me title */
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
   <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 28px; font-weight: 600; color: #555;">Languages and Tools 🛠️</h3>
 
   <div align="center" class="tools-container">
@@ -124,38 +86,6 @@
     </a>
   </div>
   
-  <style>
-    .tools-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 20px;
-    }
-  
-    .tool-icon {
-      transition: transform 0.4s ease, opacity 0.4s ease;
-    }
-  
-    .tool-icon:hover {
-      transform: scale(1.2) rotate(15deg);
-      opacity: 0.9;
-    }
-  
-   
-    .tools-container {
-      animation: fadeIn 1.5s ease-in-out;
-    }
-  
-    @keyframes fadeIn {
-      0% { opacity: 0; }
-      100% { opacity: 1; }
-    }
-
-     @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-  </style>
 
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 28px; font-weight: 600; color: #555;">GitHub Stats: 📡📡</h3>
 
