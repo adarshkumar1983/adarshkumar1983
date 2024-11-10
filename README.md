@@ -141,7 +141,7 @@
       opacity: 0.9;
     }
   
-    /* Fade-in animation for the whole section */
+   
     .tools-container {
       animation: fadeIn 1.5s ease-in-out;
     }
@@ -165,7 +165,7 @@
 
 
 
-<!-- Add CSS animation -->
+
 <style>
   @keyframes fadeIn {
     0% { opacity: 0; }
